@@ -1,0 +1,4 @@
+repository "菜单制作练习@unknownway@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
